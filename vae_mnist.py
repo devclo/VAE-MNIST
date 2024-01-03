@@ -12,8 +12,8 @@ from scipy.stats import norm
 from optuna.visualization import plot_optimization_history, plot_contour, plot_slice
 
 # Constants
-LATENT_SPACE_PLOTS_DIR = '/content/gdrive/MyDrive/NJIT/CS370/Final Exam/latent_space_plots'
-GENERATED_IMAGES_PLOTS_DIR = '/content/gdrive/MyDrive/NJIT/CS370/Final Exam/generated_images_plots'
+LATENT_SPACE_PLOTS_DIR = 'PATH_TO_DIR'
+GENERATED_IMAGES_PLOTS_DIR = 'PATH_TO_DIR'
 EPOCHS = 50  # Change as needed
 OPTUNA_TRIALS = 15  # Change as needed
 
