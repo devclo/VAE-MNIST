@@ -8,12 +8,12 @@ This project contains a TensorFlow implementation of a Variational Autoencoder (
 
 The code is organized into multiple modules:
 
-* main.py: The entry point to run the VAE model training and optimization.
-* config.py: Configuration settings including constants and paths.
-* data.py: Functions related to loading and preprocessing the MNIST dataset.
-* model.py: Defines the VAE model architecture and loss functions.
-* training.py: Contains the training loop and Optuna optimization logic.
-* plotting.py: Functions for plotting and saving the latent space and generated digits.
+* 'main.py': The entry point to run the VAE model training and optimization.
+* 'config.py': Configuration settings including constants and paths.
+* 'data.py': Functions related to loading and preprocessing the MNIST dataset.
+* 'model.py': Defines the VAE model architecture and loss functions.
+* 'training.py': Contains the training loop and Optuna optimization logic.
+* 'plotting.py': Functions for plotting and saving the latent space and generated digits.
 
 ## Features ##
 
