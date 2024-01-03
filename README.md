@@ -52,7 +52,7 @@ pip install numpy matplotlib scipy tensorflow imageio
 To run the script, simply execute it with Python:
 
 ```bash
-python vae_mnist.py
+python main.py
 ```
 By default, the script will train the VAE model for 100 epochs, save the latent space and generated images every 10 epochs, and create GIFs to visualize the training progression.
 
